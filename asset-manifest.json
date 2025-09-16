@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/veda-vaani/static/css/main.cf0e0d58.css",
+    "main.js": "/veda-vaani/static/js/main.d375312f.js",
+    "index.html": "/veda-vaani/index.html",
+    "main.cf0e0d58.css.map": "/veda-vaani/static/css/main.cf0e0d58.css.map",
+    "main.d375312f.js.map": "/veda-vaani/static/js/main.d375312f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf0e0d58.css",
+    "static/js/main.d375312f.js"
+  ]
+}
