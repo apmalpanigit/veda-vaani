@@ -15,17 +15,6 @@ function App() {
       ) : (
         <Home onSelectCategory={(cat) => setSelectedCategory(cat)} />
       )}
-
-      {!selectedCategory && (
-        <div className="flex justify-center">
-          <button
-            className="mb-8 py-3 px-6 rounded-lg bg-indigo-700 text-white font-semibold shadow-lg"
-            onClick={() => alert("Continue clicked")}
-          >
-            Continue
-          </button>
-        </div>
-      )}
     </div>
   );
 }
